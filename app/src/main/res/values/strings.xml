@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AsyncTaskWS</string>
+    <string name="texto_informacao">Clique no botão abaixo para preencher a tela com informações adquiridas nos Web Services</string>
+    <string name="texto_botao">Acessar Web Service de Teste</string>
+    <string name="texto_botao_custom">Acessar Web Services Personalizado</string>
+</resources>
